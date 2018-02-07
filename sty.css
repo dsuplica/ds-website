@@ -1,0 +1,13 @@
+.title{
+  font-family: arial;
+  font-size: 48px;
+  text-align: center;
+}
+
+.nav-element{
+  margin-left: 20px;
+  position: absolute;
+  margin-top: 10px;
+  background-color:#eeeeee
+
+}
